@@ -1,5 +1,5 @@
 # some-renew-with-labelme-json_to_dataset.py
-這是一個改善labelme json_to_dataset.py 功能的程式碼 可以將src資料夾內的.json全部轉成maskrcnn所要求的規格
+這是一個改善labelme json_to_dataset.py 功能的程式碼 可以將src資料夾內的.json全部轉成maskrcnn所要求的格式
 # Requirement
   you should have labelme 
   
